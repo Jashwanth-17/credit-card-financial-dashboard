@@ -58,16 +58,16 @@ The analysis is based on a dataset containing over **10,000 transaction records*
 ## 📸 Screenshots
 
 ### Transaction Report
-![Transaction Dashboard](path/to/your/screenshot1.png)
+![Transaction Dashboard](screenshots/Transaction_report.png)
 *Provides a high-level view of revenue metrics and weekly trends.*
 
 ### Customer Report
-![Customer Dashboard](path/to/your/screenshot2.png)
+![Customer Dashboard](screenshots/Customer_report.png)
 *Deep dive into customer demographics, showing revenue by job, income, and education.*
 
 ### 📂 File Structure
-* [`Credit_Card_Report.pbix`](Credit_Card_Report.pbix): The source Power BI file.
-* [`Credit_Card_Report.pdf`](Credit_Card_Report.pdf): A static PDF version of the report.
+* [`Credit_Card_dashboard.pbix`](dashboard/Credit_Card_dashboard.pbix): The source Power BI file.
+* [`Credit_Card_Report.pdf`](dashboard/Credit_Card_Report.pdf): A static PDF version of the report.
 
 
 ## 🚀 Conclusion
