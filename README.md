@@ -55,7 +55,7 @@ The analysis is based on a dataset containing over **10,000 transaction records*
 ### 3. Geographical Analysis
 * [cite_start]**Top 5 States:** Texas (TX), New York (NY), and California (CA) are the leading states, contributing approximately **68%** of the total revenue [cite: 142-160].
 
-## 📊 Dashboard Visuals
+## 📸 Screenshots
 
 ### Transaction Report
 ![Transaction Dashboard](path/to/your/screenshot1.png)
@@ -65,8 +65,10 @@ The analysis is based on a dataset containing over **10,000 transaction records*
 ![Customer Dashboard](path/to/your/screenshot2.png)
 *Deep dive into customer demographics, showing revenue by job, income, and education.*
 
-### 📄 Full Report
-> **[Download Full PDF Report](Credit%20Card%20report.pdf)**
+### 📂 File Structure
+* [`Credit_Card_Report.pbix`](Credit_Card_Report.pbix): The source Power BI file.
+* [`Credit_Card_Report.pdf`](Credit_Card_Report.pdf): A static PDF version of the report.
+
 
 ## 🚀 Conclusion
 
